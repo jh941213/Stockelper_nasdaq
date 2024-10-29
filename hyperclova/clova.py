@@ -20,9 +20,9 @@ class HyperCLOVAChatModel(BaseChatModel):
         api_key: HyperCLOVA API 키
         api_key_primary: 기본 API 게이트웨이 키
         request_id: 요청 식별자
-        temperature: 샘플링 온도 (0-1)
+        temperature: 창의성 부여 파라미터
         max_tokens: 생성할 최대 토큰 수
-        top_p: 누클리어스 샘플링 파라미터
+        top_p: Top-p 샘플링 파라미터
         top_k: Top-k 샘플링 파라미터
         repeat_penalty: 반복 토큰에 대한 패널티
     """
