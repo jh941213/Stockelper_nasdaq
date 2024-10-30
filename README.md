@@ -1,5 +1,4 @@
-# Stockelper_nasdaq
-가짜연 9th 깃허브 잔디심기 Stockelper   
+# 🌱 가짜연 9th GitHub 잔디심기 프로젝트 - **Stockelper**
 
 # 📈 ETF Leverage Buy/Sell Decision Support Agent (ETF 레버리지 매수/매도 결정 지원 에이전트)
 
