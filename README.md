@@ -1,7 +1,5 @@
 # 🌱 가짜연 9th GitHub 잔디심기 프로젝트 - **Stockelper**
 
-# 📈 ETF Leverage Buy/Sell Decision Support Agent (ETF 레버리지 매수/매도 결정 지원 에이전트)
-
 본 프로젝트는 ETF 레버리지 매수/매도 결정을 돕기 위해 설계된 에이전트 기반의 RAG (Relevance-Augmented Generation) LLM 시스템입니다. **LangGraph**와 같은 에이전트를 통해 ETF 관련 질문을 자동으로 판단하고, 사용자가 질문에 포함한 종목 이름을 파싱한 후 **최신 뉴스**와 **실시간 시장 데이터**를 통합하여 최적의 매수/매도 결정을 제안합니다. 이 시스템은 특히 퀀트적인 시각에서 투자 결정을 돕는 이유를 포함하여 사용자에게 더욱 신뢰성 있는 정보를 제공합니다.
 
 ## 🌟 주요 기능
